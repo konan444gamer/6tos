@@ -138,8 +138,4 @@
                 <td>Vergara</td>
                 <td>Sebastián</td>
             </tr>
-        </tbody>
 
-    </table>
-</body>
-</html>
