@@ -1,5 +1,5 @@
 
-><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -99,7 +99,7 @@
                 <td>Pamela</td>
             </tr>
             <tr>
-                <th>17</th
+                <th>17</th>
                 <td>Picone</td>
                 <td>Guillermo</td>
             </tr>
